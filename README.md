@@ -1,2 +1,2 @@
 # DiceGuessingGame
-A simple Java Dice Guessing Game vs Computer
+A simple Java Dice Game vs Computer
